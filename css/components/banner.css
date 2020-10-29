@@ -1,0 +1,16 @@
+.banner {
+  height: 500px;
+  background-size: cover;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.banner-txt {
+  text-align: center;
+}
+
+.banner-txt h1, .banner-txt h2 {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0 , 1);
+}

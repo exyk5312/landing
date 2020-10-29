@@ -1,0 +1,16 @@
+.card-inline {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.card-small {
+  box-shadow: 0 0 5px rgb(230,230,230);;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+}
+
+.card-img-small {
+  height: 60px;
+  width: 60px;
+}
